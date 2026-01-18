@@ -1,4 +1,5 @@
 개인정보처리방침
+
 Finding K-Beauty (이하 "회사" 또는 "서비스")는 이용자의 개인정보를 중요시하며, 「개인정보 보호법」 등 관련 법령을 준수하고 있습니다.
 
 제1조 (개인정보의 처리 목적)
@@ -82,6 +83,7 @@ Google Play Store / Apple App Store,인앱 결제 처리
 
 ==========
 Privacy Policy
+
 Last updated: January 18, 2026
 
 Finding K-Beauty (hereinafter referred to as the "Service") values your privacy. This Privacy Policy explains how we collect, use, and share your information when you use our mobile application.
