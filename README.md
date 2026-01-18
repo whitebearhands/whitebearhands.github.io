@@ -81,7 +81,8 @@ Google Play Store / Apple App Store,인앱 결제 처리
 부칙
 본 방침은 2026년 1월 1부터 시행됩니다.
 
-==========
+---
+
 Privacy Policy
 
 Last updated: January 18, 2026
